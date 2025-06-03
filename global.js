@@ -6,3 +6,5 @@ function atb(content){ // add to body (atb)
 function sb(content){ // set body (sb), reccomend to not use
   document.body = content;
 }
+
+atb("hello world");
